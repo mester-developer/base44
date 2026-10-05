@@ -1,0 +1,6 @@
+{
+  "name": "نکسورا | فروشگاه تخصصی لپ‌تاپ",
+  "description": "فروشگاه اینترنتی پریمیوم لپ‌تاپ‌های گیمینگ، مهندسی، برنامه‌نویسی و اداری با ضمانت اصالت کالا و گارانتی طلایی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
